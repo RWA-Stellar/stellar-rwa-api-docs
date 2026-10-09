@@ -9,8 +9,8 @@ A combined repository with two projects for the **Stellar RWA Toolkit**:
 
 ## Sister repositories
 
-- **Contracts:** https://github.com/RWA-ToolKit/stellar-rwa-contracts
-- **Web app:** https://github.com/RWA-ToolKit/stellar-rwa-web
+- **Contracts:** https://github.com/RWA-Stellar/stellar-rwa-contracts
+- **Web app:** https://github.com/RWA-Stellar/stellar-rwa-web
 
 ## Stellar integration
 
